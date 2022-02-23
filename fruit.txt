@@ -2,3 +2,6 @@ mango
 apple
 pineapple
 jackfruit
+
+tomato
+brinjal
