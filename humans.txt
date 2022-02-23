@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jaya Pratap // Confidentail>
 
 # THANKS
 
-    <name>
+    Jason 
 
 # TECHNOLOGY COLOPHON
 
