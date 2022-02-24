@@ -1,3 +1,10 @@
+commit 2edba971222505d90146cd78c466f599d3a82e34
+Merge: cfc027b 66d4be3
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 23:17:41 2022 +0530
+
+    Merge branch 'master' of https://github.com/jayapratap21/starter-web
+
 commit 7fb4bcfbf89498f93483d72b918bcd69936f6bb0
 Merge: 5b3d6fb b3d4a1a
 Author: jayapratap21 <jayapratap21@gmail.com>
