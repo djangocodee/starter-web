@@ -12,3 +12,7 @@ pakistan
 uae
 uk
 dk
+
+aus
+nz
+wa
