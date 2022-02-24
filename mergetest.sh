@@ -1,9 +1,9 @@
 ## script for merging 
 
-echo "Enter no of days to see merged files in Hyperion: "
-var = $n
+git log --merges >> mergetest.txt
 
-find git log --merges -$n > mergetest.txt
+echo "Output has saved as mergetest.txt"
+
 
 
 
