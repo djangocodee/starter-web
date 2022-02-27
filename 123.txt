@@ -2,7 +2,7 @@ commit 6fa721bab8eac2ea1893ee60e3d18ce43f0cd1aa
 Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
 Date:   Thu Feb 24 19:06:16 2022 +0530
 
-Adding a line !! and a comment
+Adding a line !!
 
     Update atombomb.txt
 
