@@ -1,0 +1,1 @@
+git log > ele.txt

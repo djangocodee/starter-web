@@ -1,0 +1,134 @@
+Fri Feb 25 16:23:27 2022 +0530 author jayapratap21
+:100644 100644 ad03571 e7b3153 M	1234.txt
+:000000 100644 0000000 002ceb4 A	File25.txt
+:000000 100644 0000000 4c111e4 A	feb21.txt
+:000000 100644 0000000 74b8b49 A	hihi.txt
+
+Fri Feb 25 15:59:58 2022 +0530 author jayapratap21
+:000000 100644 0000000 8b9b769 A	febfeb.txt
+
+Fri Feb 25 03:04:31 2022 +0530 author jayapratap21
+Fri Feb 25 03:02:59 2022 +0530 author jayapratap21
+:100644 100644 f23eb66 c54a781 M	123.txt
+
+Fri Feb 25 02:49:55 2022 +0530 author jayapratap21
+:100644 100644 85ced77 7730c86 M	.mergetest.sh.swp
+:100644 100644 db98482 ad03571 M	1234.txt
+:000000 100644 0000000 7434d5d A	gitlog.bat
+
+Fri Feb 25 02:48:19 2022 +0530 author jayapratap21
+:100644 100644 5bb5810 f2c309a M	fruit.txt
+
+Fri Feb 25 02:40:21 2022 +0530 author jayapratap21
+:100644 100644 c153419 4455a46 M	humans.txt
+
+Thu Feb 24 23:17:41 2022 +0530 author jayapratap21
+Thu Feb 24 23:16:03 2022 +0530 author jayapratap21
+:100644 100644 121d9ee 64df4ac M	atombomb.txt
+
+Thu Feb 24 23:13:56 2022 +0530 author jayapratap21
+:000000 100644 0000000 85ced77 A	.mergetest.sh.swp
+:100644 100644 b79a4a9 9bf8503 R096	.merge1.sh.swp	.mergetest.vi.swp
+:000000 100644 0000000 f23eb66 A	123.txt
+:000000 100644 0000000 db98482 A	1234.txt
+:000000 100644 0000000 95e700f A	audit_nonrep_listfiles.txt
+:100644 100644 6a157b2 f5d8afd M	merge1.sh
+:000000 100644 0000000 e69de29 A	merge123.txt
+:100644 000000 7736324 0000000 D	mergejp.txt
+:000000 100644 0000000 e69de29 A	mergetest
+:100644 100644 cb58871 7746055 M	mergetest.sh
+:100644 100644 c705e39 e69de29 M	mergetest.txt
+:000000 100644 0000000 cd29e70 A	merging.txt
+
+Thu Feb 24 23:12:02 2022 +0530 author jayapratap21
+:000000 100644 0000000 121d9ee A	atombomb.txt
+
+Thu Feb 24 23:10:04 2022 +0530 author jayapratap21
+:100644 000000 121d9ee 0000000 D	atombomb.txt
+
+Thu Feb 24 23:06:27 2022 +0530 author jayapratap21
+Thu Feb 24 19:06:16 2022 +0530 author jayapratap21
+:100644 100644 013bcbd 121d9ee M	atombomb.txt
+
+Thu Feb 24 18:55:21 2022 +0530 author jayapratap21
+:100644 100644 83c58c4 013bcbd M	atombomb.txt
+
+Thu Feb 24 18:52:36 2022 +0530 author jayapratap21
+:100644 100644 bd5b82c 83c58c4 M	atombomb.txt
+
+Thu Feb 24 18:49:46 2022 +0530 author jayapratap21
+:000000 100644 0000000 bd5b82c A	atombomb.txt
+
+Thu Feb 24 18:26:59 2022 +0530 author jayapratap21
+Thu Feb 24 18:26:52 2022 +0530 author jayapratap21
+:100644 100644 e5b9da5 cb58871 M	mergetest.sh
+:100644 100644 e69de29 c705e39 M	mergetest.txt
+
+Thu Feb 24 18:23:14 2022 +0530 author jayapratap21
+:000000 100644 0000000 cb58871 A	mergetest.sh
+
+Thu Feb 24 16:42:11 2022 +0530 author jayapratap21
+Thu Feb 24 16:38:24 2022 +0530 author jayapratap21
+:100644 100644 1b99e83 c153419 M	humans.txt
+
+Thu Feb 24 16:36:41 2022 +0530 author jayapratap21
+:000000 100644 0000000 b79a4a9 A	.merge1.sh.swp
+:000000 100644 0000000 b60fedf A	merge.sh
+:000000 100644 0000000 6a157b2 A	merge1.sh
+:000000 100644 0000000 7736324 A	mergejp.txt
+:000000 100644 0000000 e5b9da5 A	mergetest.sh
+:000000 100644 0000000 e69de29 A	mergetest.txt
+
+Thu Feb 24 16:36:07 2022 +0530 author jayapratap21
+:100644 100644 ab0ef0e b6632b7 M	README.md
+:100644 100644 f5f5656 1b99e83 M	humans.txt
+:100644 100644 43183c8 8b34000 M	index.html
+:100644 100644 ca5e908 5483924 M	simple.html
+
+Thu Feb 24 10:48:44 2022 +0530 author jayapratap21
+:100644 100644 43183c8 8b34000 M	index.html
+
+Thu Feb 24 01:12:11 2022 +0530 author jayapratap21
+:100644 100644 ab0ef0e bfddcff M	README.md
+
+Thu Feb 24 01:07:04 2022 +0530 author jayapratap21
+:100644 100644 5b037cf f5f5656 M	humans.txt
+
+Thu Feb 24 01:07:04 2022 +0530 author jayapratap21
+:100644 100644 3d21d7a 1b99e83 M	humans.txt
+
+Thu Feb 24 01:07:04 2022 +0530 author jayapratap21
+:100644 100644 f5f5656 3d21d7a M	humans.txt
+
+Thu Feb 24 01:04:06 2022 +0530 author jayapratap21
+:100644 100644 bce81df ab0ef0e M	README.md
+
+Thu Feb 24 00:59:45 2022 +0530 author jayapratap21
+:100644 100644 06bb023 bce81df M	README.md
+
+Thu Feb 24 00:52:31 2022 +0530 author jayapratap21
+:100644 100644 20f3fbd 116b479 M	myfirst.txt
+
+Wed Feb 23 22:58:55 2022 +0530 author jayapratap21
+:100644 100644 01f983f 43183c8 M	index.html
+
+Wed Feb 23 22:37:13 2022 +0530 author jayapratap21
+:100644 100644 fa03fb0 20f3fbd M	myfirst.txt
+
+Wed Feb 23 22:24:30 2022 +0530 author jayapratap21
+:100644 100644 fbaaf6f 5bb5810 M	fruit.txt
+
+Wed Feb 23 22:22:37 2022 +0530 author jayapratap21
+:100644 100644 68df9b4 fbaaf6f M	fruit.txt
+
+Wed Feb 23 21:38:03 2022 +0530 author jayapratap21
+:100644 100644 bf2b348 cfcba7b M	404.html
+
+Wed Feb 23 21:31:31 2022 +0530 author jayapratap21
+:000000 100644 0000000 fa03fb0 A	myfirst.txt
+
+Wed Feb 23 21:30:40 2022 +0530 author jayapratap21
+:100644 100644 fdace4a bf2b348 M	404.html
+
+Wed Feb 23 21:27:17 2022 +0530 author jayapratap21
+:000000 100644 0000000 68df9b4 A	fruit.txt

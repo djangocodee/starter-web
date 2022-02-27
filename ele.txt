@@ -1,0 +1,270 @@
+commit 9adc9d41e9817ce7d1560abc18caf31091e307c1
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Fri Feb 25 16:23:27 2022 +0530
+
+    all
+
+commit e8bec5f063a626ce0660a0a1d38ff5528ae68cba
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Fri Feb 25 15:59:58 2022 +0530
+
+    all
+
+commit e26dfe9a04cd4b2f103300b48232f3c643c7fd90
+Merge: 2e30efd 4b53a09
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Fri Feb 25 03:04:31 2022 +0530
+
+    Merge branch '4test'
+
+commit 4b53a0952471af4cb14ad0a7fbe4dfde4cc11587
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Fri Feb 25 03:02:59 2022 +0530
+
+    test edit in 4 test
+
+commit 2e30efddd25594100bc808443d965576d3cb5a51
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Fri Feb 25 02:49:55 2022 +0530
+
+    all
+
+commit 2aecf02f59b6d1468d276693c386ded7b927b1e9
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Fri Feb 25 02:48:19 2022 +0530
+
+    fruit change in 4test
+
+commit 288c3edd4f89a1af18c11cb8051315a0e51bbde2
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Fri Feb 25 02:40:21 2022 +0530
+
+    adding a line a file from 4t branch
+
+commit 2edba971222505d90146cd78c466f599d3a82e34
+Merge: cfc027b 66d4be3
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 23:17:41 2022 +0530
+
+    Merge branch 'master' of https://github.com/jayapratap21/starter-web
+
+commit 66d4be3fb5b47a05564700cf86ee0ac3f398beaa
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 23:16:03 2022 +0530
+
+    Add files via upload
+
+commit cfc027b80303e0ceeb4f0e9b737d7a7790ac3403
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 23:13:56 2022 +0530
+
+    all
+
+commit 837bdec62ce1d3d786b00869903143aa1b30750a
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 23:12:02 2022 +0530
+
+    Add files via upload
+
+commit ff1813600b9ed3c93ea4884285a021e6284256d9
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 23:10:04 2022 +0530
+
+    Delete atombomb.txt
+
+commit 5892ff87cd43ccde55cdc4ba409ebf38d4e77dd0
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 23:06:27 2022 +0530
+
+    Add files via upload
+
+commit 6fa721bab8eac2ea1893ee60e3d18ce43f0cd1aa
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 19:06:16 2022 +0530
+
+    Update atombomb.txt
+
+commit 65382442d29923e7f797a7cbeea3aa6f16e01d52
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 18:55:21 2022 +0530
+
+    Update atombomb.txt
+
+commit f18cb1178fed37f6f40fa841cf408a05e3a95bc7
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 18:52:36 2022 +0530
+
+    Update atombomb.txt
+
+commit dddfeea33a15f47f6a66696a69103d74c41f3985
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 18:49:46 2022 +0530
+
+    atom
+
+commit 7fb4bcfbf89498f93483d72b918bcd69936f6bb0
+Merge: 5b3d6fb b3d4a1a
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 18:26:59 2022 +0530
+
+    Merge branch 'master' of https://github.com/jayapratap21/starter-web
+
+commit 5b3d6fb88cfee6cfbd41e5d65d21207b37ce10bf
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 18:26:52 2022 +0530
+
+    eww
+
+commit b3d4a1ae82fa6843b19c97d87f5095c529108e48
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 18:23:14 2022 +0530
+
+    merge shell
+
+commit b0a0ff1f13ffa73691003ebed0943488fb352b55
+Merge: 9c13cb3 6331cbf
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 16:42:11 2022 +0530
+
+    dne
+
+commit 9c13cb3b48447ff87023e9c575d9ce6d56f505da
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 16:38:24 2022 +0530
+
+    for fun merge test
+
+commit 262a3cf8bdee2ad68e3aaff40cd172311b4f0bac
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 16:36:41 2022 +0530
+
+    all
+
+commit 400d4cd57b21ab2c682e8c492bb74f1e5af44672
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 16:36:07 2022 +0530
+
+    commit all
+
+commit 6331cbf09ba84d7780f19ece096cf7e126c1da4f
+Author: jayapratap21 <100152752+jayapratap21@users.noreply.github.com>
+Date:   Thu Feb 24 10:48:44 2022 +0530
+
+    Update index.html
+
+commit df3d7eff9ae78498d9462d3b60e2e935f3c1b51b
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 01:12:11 2022 +0530
+
+    addding more comments from feature
+
+commit ef18719e28add8c3391dce90efe64a8996847a40
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 00:56:11 2022 +0530
+
+    rebase
+
+commit b01cc7e4d6b1d4842ebef51813b00f84e0d28b32
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 01:02:38 2022 +0530
+
+    rebase
+
+commit 3873ebe241a84ddbb866d44b1cc43efd0baa1ce6
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 01:00:36 2022 +0530
+
+    rebase
+
+commit 0e1b87cab38dc9762f6b78300d613bd0af5e1d39
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 01:04:06 2022 +0530
+
+    README
+
+commit 6691b440cf962153643bc0c813cb8c48e452ac1f
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 00:59:45 2022 +0530
+
+    rebase part2
+
+commit b5df76c2d5755eab0efd5c41b78c421230a8cb0c
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Thu Feb 24 00:52:31 2022 +0530
+
+    finish
+
+commit d2fef0f1e80f2c8a72ba926e7fa523de9481605e
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 22:58:55 2022 +0530
+
+    index for merge text
+
+commit 5e6dc85a526a90463d232a3846ed55ac81f39a22
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 22:37:13 2022 +0530
+
+    myfirst for merge
+
+commit a894176f6027a306f4cd867eda9fec5020440a2c
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 22:24:30 2022 +0530
+
+    fruit again
+
+commit faa5e02747fd80ae8d9a2719a7f2d0d254498746
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 22:22:37 2022 +0530
+
+    fruit again
+
+commit 3c3910be32056b97c88280899aea2d7e6fdac09e
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 21:38:03 2022 +0530
+
+    for my first merge test
+
+commit 145cdca4e4e7d30253e4758f7fa7f2b207b85023
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 21:31:31 2022 +0530
+
+    test all
+
+commit 4acd111252aa87caac10fbfa872ad9a9a43e8ae0
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 21:30:40 2022 +0530
+
+    testing my first merge
+
+commit d2608fb7179622cfb8e02c7c42bf3bf0635043db
+Author: jayapratap21 <jayapratap21@gmail.com>
+Date:   Wed Feb 23 21:27:17 2022 +0530
+
+    fruit text file first use
+
+commit 4beb7f097b54ab7cf08daf17972c3ab14432ae24
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+commit e73f9147e78331b2ea746dc43de5a44953766a76
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+commit 34f563b40c4c1519026d2e881c75e97728c45502
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+commit 5c05047e53ecd0913a6f10000014d38829aaecdc
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
