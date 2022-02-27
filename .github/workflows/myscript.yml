@@ -1,1 +1,1 @@
-git log --raw --oneline --since="$ days ago" --pretty=format:"%cd author %an"
+git status
